@@ -5,3 +5,4 @@ print("Hallo", naam + "!")
 # Opmerking: aanpassing
 print("Hallo" * 5)
 
+#test
