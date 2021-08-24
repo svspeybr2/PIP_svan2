@@ -6,3 +6,4 @@ print("Hallo", naam + "!")
 print("Hallo" * 5)
 
 #test
+print("banaan"[0:3])
